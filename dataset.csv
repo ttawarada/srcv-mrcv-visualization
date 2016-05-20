@@ -1,4 +1,4 @@
-RESPONSE_ID,BRAND FAVORABILITY,BrandAttribute2.Nice,BrandAttribute2.Cool,BrandAttribute2.Lame,BrandAttribute2.Fun,BrandAttribute2.None
+RESPONSE_ID,MASCOT FAVORABILITY,BrandAttribute2.Nice,BrandAttribute2.Cool,BrandAttribute2.Lame,BrandAttribute2.Fun,BrandAttribute2.None
 1,6,0,0,1,1,0
 2,4,0,0,0,1,0
 3,6,0,0,1,0,0
